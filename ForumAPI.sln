@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumAPI", "ForumAPI\ForumAPI.csproj", "{07EAE21A-F9D9-4E06-A19F-9F76EE9B79FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EAE21A-F9D9-4E06-A19F-9F76EE9B79FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EAE21A-F9D9-4E06-A19F-9F76EE9B79FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EAE21A-F9D9-4E06-A19F-9F76EE9B79FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EAE21A-F9D9-4E06-A19F-9F76EE9B79FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8536A25-5F90-4C58-BE09-2DCE38054E32}
+	EndGlobalSection
+EndGlobal
